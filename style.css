@@ -2,4 +2,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Nimbus Sans L";
+}
+#main {
+  width: 100%;
+}
+#nav {
+  padding: 2vw 3vw;
 }
