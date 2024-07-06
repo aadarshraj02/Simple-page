@@ -160,6 +160,8 @@ h3 {
   padding: 3vw;
   padding-left: 14vw;
   padding-right: 12vw;
+  display: flex;
+  justify-content: space-between;
 }
 #first-pic {
   width: 17vw;
@@ -181,6 +183,31 @@ h3 {
 }
 #first-pic p {
   opacity: 0.7;
-  font-size: 14px;
+  font-size: 1vw;
   margin-top: 10px;
+  line-height: 1;
+}
+#second-pic #pic-img {
+  width: 100%;
+  height: 35vw;
+  margin-bottom: 1vw;
+}
+#second-pic {
+  width: 23vw;
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+}
+#second-pic h1 {
+  letter-spacing: -0.1vw;
+  font-weight: 100;
+  font-size: 2vw;
+}
+#second-pic p {
+  opacity: 0.7;
+  font-size: 1vw;
+  margin-top: 10px;
+  line-height: 1;
+  width: 60%;
+  text-align: right;
 }
