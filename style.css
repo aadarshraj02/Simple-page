@@ -33,6 +33,8 @@
   width: 100%;
   margin-top: 12vw;
   padding: 0 10vw;
+  display: flex;
+  /* justify-content: space-between; */
 }
 #sustain {
   width: 10vw;
@@ -60,4 +62,9 @@
   height: 120%;
   width: 120%;
   object-fit: cover;
+}
+#ephemeral {
+  width: 25vw;
+  height: 36vw;
+  background-color: red;
 }
