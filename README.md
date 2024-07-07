@@ -6,7 +6,7 @@ Link-- simple-page-own.netlify.app/
 
 ## Description 🔥
 
-It's a simple page with minimalanimation and interaction
+It's a simple page with minimal animation and interaction
 
 ## Used ✨
 
