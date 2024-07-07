@@ -134,3 +134,23 @@ Shery.imageEffect("#image", {
     noise_scale: { value: 14.5, range: [0, 100] },
   },
 });
+
+document
+  .querySelector("#future-text button")
+  .addEventListener("mouseover", () => {
+    gsap.to("#future video", {
+      opacity: 1,
+      duration: 1,
+      ease: "power5",
+    });
+  });
+
+document
+  .querySelector("#future-text button")
+  .addEventListener("mouseleave", () => {
+    gsap.to("#future video", {
+      opacity: 0,
+      duration: 1,
+      ease: "power5",
+    });
+  });
