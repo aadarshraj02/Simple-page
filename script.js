@@ -63,3 +63,4 @@ Shery.imageEffect("#imgs-text img", {
     noise_scale: { value: 10, range: [0, 100] },
   },
 });
+
