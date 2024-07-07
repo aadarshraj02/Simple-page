@@ -64,7 +64,7 @@ Shery.imageEffect("#imgs-text img", {
   },
 });
 
-Shery.imageEffect("#susimagewrapper img", {
+Shery.imageEffect(".img-effect", {
   style: 5,
   config: {
     a: { value: 2.29, range: [0, 30] },
