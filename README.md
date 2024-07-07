@@ -1,23 +1,23 @@
+# Simple Page 📝
 
-  # Simple Page 📝  
-  
-  
-  ## Deployed on- 🚀  
-  Link--     simple-page-own.netlify.app/
-  
-  ## Descreption 🔥  
-It'sa simple page with minimalanimation and interaction 
-      
-  ## Used ✨  
-  HTML
+## Deployed on- 🚀
 
-  CSS
+Link-- simple-page-own.netlify.app/
 
-  JS
+## Description 🔥
 
-  GSAP
+It's a simple page with minimalanimation and interaction
 
-  LOCOMOTIVE
+## Used ✨
 
-  SHERYJS
-  
+HTML
+
+CSS
+
+JS
+
+GSAP
+
+LOCOMOTIVE
+
+SHERYJS
